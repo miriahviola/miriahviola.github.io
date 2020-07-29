@@ -1,0 +1,23 @@
+h1 {
+	font-family: lato, sans-serif;
+	font-weight: semibold;
+	font-size: 36px;
+}
+
+h2 {
+	font-family: lato, sans-serif;
+	font font-weight: semibold;
+	font size:30px;
+}
+p {
+	font-family: lato, sans-serif;
+	font-weight: regular;
+	font-size: 20px;
+	line-height: 1.5em;
+}
+
+h3 {
+	font-family: lato, sans-serif;
+	font font-weight: regular;
+	font size:30px;
+}
