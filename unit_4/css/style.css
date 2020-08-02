@@ -1,23 +1,35 @@
 h1 {
-	font-family: lato, sans-serif;
-	font-weight: semibold;
-	font-size: 36px;
+	font-family: poppins, sans-serif;
+	font-weight: bold;
+	font-size: 48px;
 }
 
 h2 {
-	font-family: lato, sans-serif;
-	font font-weight: semibold;
+	font-family: poppins, sans-serif;
+	font font-weight: bold;
 	font size:30px;
 }
 p {
-	font-family: lato, sans-serif;
-	font-weight: regular;
+	font-family: Avenir, sans-serif;
+	font-weight: roman;
 	font-size: 20px;
 	line-height: 1.5em;
 }
 
-h3 {
-	font-family: lato, sans-serif;
-	font font-weight: regular;
-	font size:30px;
+a {
+	font-family: Avenir, sans-serif;
+	font-weight: roman;
+	font-size: 20px;
+}
+
+input{
+	font-family: Avenir, sans-serif;
+	font-weight: roman;
+	font-size: 20px;
+}
+
+label{
+	font-family: Avenir, sans-serif;
+	font-weight: roman;
+	font-size: 20px;
 }
