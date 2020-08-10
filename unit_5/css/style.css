@@ -1,0 +1,42 @@
+h1 {
+	font-family: poppins, sans-serif;
+	font-weight: bold;
+	font-size: 48px;
+}
+
+h2 {
+	font-family: poppins, sans-serif;
+	font font-weight: bold;
+	font size:30px;
+}
+p {
+	font-family: Avenir, sans-serif;
+	font-weight: roman;
+	font-size: 20px;
+	line-height: 1.5em;
+}
+
+.p2 {
+	font-family: Avenir, sans-serif;
+	font-weight: roman;
+	font-size: 20px;
+	line-height: 1.5em;
+}
+
+a {
+	font-family: Avenir, sans-serif;
+	font-weight: roman;
+	font-size: 20px;
+}
+
+input{
+	font-family: Avenir, sans-serif;
+	font-weight: roman;
+	font-size: 20px;
+}
+
+label{
+	font-family: Avenir, sans-serif;
+	font-weight: roman;
+	font-size: 20px;
+}
