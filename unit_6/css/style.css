@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap);
+
+body {
+	font-family: Avenir, sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 1.5em;
+}
+
+#project_1 {
+	background-color: #FFB8CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left-image {
+	background-color: #FFEBEB;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 60%;
+}
+
+#right-text {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 30%;
+}
+
+#project_2 {
+	background-color: #FFB8CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right-image {
+	background-color: #EBF1FF;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 60%;
+}
+
+#left-text {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+.p2 {
+	font-size: 30px;
+}
+
+h1,h2 {
+	font-family: poppins, sans-serif;
+	font-weight: 700;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+h2 {
+	font size:30px;
+}
+
+img {
+	width: 50%;
+}
+
+#logo {
+	width: 20%;
+}
