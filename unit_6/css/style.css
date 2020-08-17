@@ -42,48 +42,23 @@ a {
 	font-size: 20px;
 }
 
-#project_1 {
-	background-color: #FFB8CF;
-	border: 1px black solid;
+.project-1 {
+	background-color: white;
 	padding: 20px;
 }
 
-#left-image {
-	background-color: #FFEBEB;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 60%;
+.project-1 > * {
+	width: 50%;
+	float: left; 
 }
 
-#right-text {
-	background-color: #E55B88;
-	border: 1px black solid;
-	padding: 20px;
+.project-2 > * {
+	width: 50%;
 	float: right;
-	width: 30%;
 }
-
-#project_2 {
-	background-color: #FFB8CF;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#right-image {
-	background-color: #EBF1FF;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 60%;
-}
-
-#left-text {
-	background-color: #E55B88;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 30%;
+ 
+article div {
+	padding: 4em;
 }
 
 .clearfix:after {
@@ -115,5 +90,12 @@ h2 {
 img {
 	width: 50%;
 }
+
+#contact-form {
+	border: 2px solid;
+	width: 600px;
+	margin: auto;
+}
+
 
 
