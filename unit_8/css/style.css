@@ -190,9 +190,19 @@ footer {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 @media only screen and (max-width: 480px) {
-	article {
-		float: none;
-		Width: 80%;
-	}
+	.project-1 > * {
+	width: 80%;
+	float: none; 
+}
+
+.project-2 > * {
+	width: 80%;
+	float: none;
+}
+ 
+.project-2 {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
 	}
 
