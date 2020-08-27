@@ -132,7 +132,7 @@ img {
 }
 
 #contact-form { 
-	width: 400px;
+	width: 30%;
 	margin: auto;
 	padding-bottom: 80px;
 }
@@ -186,4 +186,6 @@ footer {
 	width: 50%;
 	margin: auto;
 }
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
