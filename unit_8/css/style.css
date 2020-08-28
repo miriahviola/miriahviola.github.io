@@ -54,10 +54,12 @@ a {
 
 .project-1 img { 
 	border: 10px #FFEBEB solid;
+	padding-left: 50px;
 }
 
 .project-2 img {
 	border: 10px #EBF1FF solid;
+	padding-right: 50px;
 }
 
 .project-text {
